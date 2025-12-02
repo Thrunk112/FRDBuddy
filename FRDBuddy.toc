@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: FRDBuddy
+## Author: Thrunk
+## Version: 1
+## Notes: FRD Repair Helper
+## SavedVariablesPerCharacter: FRD
+
+FRDBuddy.lua
+
